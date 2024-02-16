@@ -13,6 +13,8 @@ JAR files manifest file (MANIFEST.MF).
 To run the project from the command line, go to the dist folder and
 type the following:
 <br/><br/>
+
+
 | code                             |   version number        |
 |----------------------------------|-------------------------|
 | <code>java -jar "try.jar"</code> |--version 2(Fixing error)|
